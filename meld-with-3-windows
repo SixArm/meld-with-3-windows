@@ -15,10 +15,10 @@
 #
 # To use this script, first add this to your gitconfig:
 #
-#   [merge]
-#     tool = meld-with_three-windows
-#   [mergetool "meld-with-three-windows"]
-#     cmd = $HOME/bin/gitmerge $BASE $LOCAL $REMOTE $MERGED
+#     [merge]
+#       tool = meld-with-3-windows
+#     [mergetool "meld-with-3-windows"]
+#       cmd = $HOME/bin/gitmerge $BASE $LOCAL $REMOTE $MERGED
 #
 # See http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html
 #
