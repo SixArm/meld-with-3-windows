@@ -1,4 +1,4 @@
-# meld-with-3-windows:<br>launch meld merge tool with 3 windows.
+# meld-with-3-windows:<br>launch the meld merge tool with 3 windows
 
   * window 1: diff from BASE to LOCAL
   * window 2: diff from BASE to REMOTE

@@ -1,6 +1,7 @@
 #!/bin/sh
 #
-# meld-with-3-windows: launch meld merge tool with 3 windows.
+# meld-with-3-windows:
+# launch the meld merge tool with 3 windows.
 #
 # The windows:
 #
